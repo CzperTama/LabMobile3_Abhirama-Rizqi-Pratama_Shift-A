@@ -47,9 +47,11 @@ Shift Baru : A
     style: const TextStyle(fontSize: 20, color: Colors.white),
     ),
 
-Screenshot
-![SSLoginPage.png](assets%2Fimg%2FSSLoginPage.png)
-![SSRegisterPage.png](assets%2Fimg%2FSSRegisterPage.png)
-![SSHomePage.png](assets%2Fimg%2FSSHomePage.png)
-![SSAboutPage.png](assets%2Fimg%2FSSAboutPage.png)
-![SSSideMenu.png](assets%2Fimg%2FSSSideMenu.png)
+# Screenshot
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/img/SSLoginPage.png" width="19%" alt="Login Page">
+  <img src="assets/img/SSRegisterPage.png" width="19%" alt="Register Page">
+  <img src="assets/img/SSHomePage.png" width="19%" alt="Home Page">
+  <img src="assets/img/SSAboutPage.png" width="19%" alt="About Page">
+  <img src="assets/img/SSSideMenu.png" width="19%" alt="Side Menu">
+</div>
