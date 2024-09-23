@@ -1,9 +1,9 @@
 # LabMobile3_Abhirama-Rizqi-Pratama_Shift-A
 
-Nama    : Abhirama Rizqi Pratama
-Nim     : H1D022099
-Shift Lama : D
-Shift Baru : A
+Nama    : Abhirama Rizqi Pratama  
+Nim     : H1D022099  
+Shift Lama : D  
+Shift Baru : A  
 
 # Tugas 3
 1. Pendaftaran (registerpage.dart):
